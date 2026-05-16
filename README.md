@@ -38,6 +38,13 @@ An IoT-based smart monitoring system using Arduino Uno and NodeMCU ESP8266 to de
 
 ---
 
+## Circuit Diagram
+
+<img width="1078" height="876" alt="Circuit_diagram" src="https://github.com/user-attachments/assets/99efb6fc-367b-4bdf-b5e5-d64167834cb9" />
+
+---
+
+
 ## Hardware Setup
 
 <img width="782" height="582" alt="Hardware_setup" src="https://github.com/user-attachments/assets/2edd27fc-d896-4653-aaef-9d160bccbe49" />
